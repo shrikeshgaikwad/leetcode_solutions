@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
