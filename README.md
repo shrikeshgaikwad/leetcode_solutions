@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0027-remove-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
