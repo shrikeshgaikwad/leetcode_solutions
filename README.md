@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0242-valid-anagram](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0147-insertion-sort-list) |
+| [0242-valid-anagram](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
