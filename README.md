@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [3731-find-missing-elements](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
