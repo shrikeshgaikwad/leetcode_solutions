@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
