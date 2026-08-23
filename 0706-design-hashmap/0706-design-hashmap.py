@@ -11,7 +11,6 @@ class MyHashMap:
 
     def put(self, key: int, val: int) -> None:
 
-        # Check if key already exists
         temp = self.head
 
         while temp != None:
@@ -20,7 +19,6 @@ class MyHashMap:
                 return
             temp = temp.next
 
-        # Key doesn't exist, create new node
         newNode = Node(key, val)
 
         if self.head == None:
@@ -47,7 +45,6 @@ class MyHashMap:
 
     def remove(self, key: int) -> None:
 
-        # If key is at head
         if self.head != None and self.head.key == key:
             self.head = self.head.next
             return
