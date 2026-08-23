@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0682-baseball-game) |
+| [0706-design-hashmap](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [0706-design-hashmap](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0706-design-hashmap](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -146,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0682-baseball-game) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
