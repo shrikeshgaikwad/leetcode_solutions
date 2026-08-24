@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0205-isomorphic-strings) |
