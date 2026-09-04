@@ -163,4 +163,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0706-design-hashmap) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
