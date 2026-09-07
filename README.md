@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0706-design-hashmap](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0706-design-hashmap) |
 ## Math
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
+| [0445-add-two-numbers-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0682-baseball-game) |
 ## Design
 |  |
