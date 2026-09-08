@@ -5,9 +5,7 @@ class Solution:
         
         if n <= 1000000:
             return n - 999
-        
-        else:
-            return 6
+
         
 
         
