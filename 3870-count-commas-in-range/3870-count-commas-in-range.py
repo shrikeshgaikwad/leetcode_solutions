@@ -3,7 +3,7 @@ class Solution:
         if n < 1000:
             return 0
         
-        if n <= 1000000:
+        elif n <= 1000000:
             return n - 999
 
         
