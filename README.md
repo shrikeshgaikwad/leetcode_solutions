@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3870-count-commas-in-range](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
 |  |
 | ------- |
