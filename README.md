@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0147-insertion-sort-list) |
+| [0229-majority-element-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -189,5 +192,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0383-ransom-note) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
