@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0706-design-hashmap](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0100-same-tree) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shrikeshgaikwad/leetcode_solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
